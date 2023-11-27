@@ -1,0 +1,39 @@
+.box {
+  background-color: #4a5fdb;
+  border-radius: 1rem 1rem 0em 0em;
+  height: 45rem;
+  color: #c8f955;
+}
+
+.fusionan {
+  max-width: 99vw;
+}
+
+.greenline {
+  border: 0.1rem solid #c8f955;
+  opacity: 100%;
+  height: 0.1rem;
+}
+
+.label .text-wrapper {
+  color: #f3f4ef;
+  font-family: "Borna-SemiBold", Helvetica;
+  font-size: 15.4rem;
+  font-weight: 600;
+  line-height: 12.6rem;
+}
+
+#greentext {
+  font-family: "Borna", Helvetica;
+  align-items: center;
+  margin-left: 2%;
+}
+
+.arch {
+  padding-top: 5rem;
+}
+
+.tech,
+.arch {
+  font-size: 3.1rem;
+}

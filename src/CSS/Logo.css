@@ -1,0 +1,61 @@
+.box {
+  height: 70px;
+  position: relative;
+  width: 95px;
+}
+
+.box .group {
+  height: 70px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 95px;
+}
+
+.box .vector {
+  height: 23px;
+  left: 18px;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+
+.box .overlap-group {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 72px;
+}
+
+.box .img {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 19px;
+}
+
+.box .vector-2 {
+  height: 30px;
+  left: 17px;
+  position: absolute;
+  top: 3px;
+  width: 27px;
+}
+
+.box .vector-3 {
+  height: 51px;
+  left: 40px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.box .vector-4 {
+  height: 30px;
+  left: 73px;
+  position: absolute;
+  top: 25px;
+  width: 22px;
+}

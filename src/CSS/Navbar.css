@@ -1,0 +1,16 @@
+.lavanda {
+  color: #4a5fdb;
+}
+
+.navbar-nav .nav-link,
+.navbar-toggler-icon {
+  color: #4a5fdb;
+}
+
+.dropdown-menu {
+  color: #4a5fdb;
+}
+
+.dropdown-menu .active {
+  color: #4a5fdb;
+}
