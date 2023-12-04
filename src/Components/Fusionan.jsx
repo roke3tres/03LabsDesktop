@@ -14,6 +14,7 @@ function Fusionan() {
           </div>
           <div className="label">
             <div className="text-wrapper text-start ms-5">se fusionan</div>
+            <div className="GreenArrow"></div>
           </div>
         </div>
       </div>

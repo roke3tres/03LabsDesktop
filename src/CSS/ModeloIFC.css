@@ -1,0 +1,17 @@
+.modeloifc {
+  width: 20vw;
+  height: 20vh;
+}
+
+.navbarifc {
+  background-color: #4a5fdb;
+  height: 9vh;
+}
+
+.exit {
+  color: #c8f955;
+  text-align: end;
+  margin-right: 1.2em;
+  padding-top: 2.4vh;
+  font-size: 1.9rem;
+}

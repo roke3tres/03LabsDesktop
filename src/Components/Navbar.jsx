@@ -2,6 +2,7 @@ import "../CSS/Navbar.css";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
+// import {Link} from "react-router-dom";
 import {Logo} from "./Logo";
 
 function TheNavbar() {
@@ -27,9 +28,9 @@ function TheNavbar() {
               id="basic-nav-dropdown"
               className="me-5"
             >
-              <NavDropdown.Item href="#action/3.1">Project A</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Project B</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Project C</NavDropdown.Item>
+              <NavDropdown.Item href="/modeloifc">
+                Visualizador 3D
+              </NavDropdown.Item>
             </NavDropdown>
             <NavDropdown
               title="Servicios"
